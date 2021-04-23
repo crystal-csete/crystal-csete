@@ -1,7 +1,7 @@
 
                                             Welcome to my GitHub page! 
 
-• I love to code! I am currently working on a project with a mega team of over 20 developers. 😁
+• I love to code! I am currently working on a project with a mega team of developers. 😁
 
 
 • I am a Full Stack Web Developer. 🛠🔧⚙
